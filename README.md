@@ -55,9 +55,6 @@ The models are evaluated using various metrics such as accuracy, precision, reca
 
 Contributions are welcome! If you find any issues or want to enhance the project, feel free to submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
@@ -65,4 +62,4 @@ We would like to express our gratitude to the developers of scikit-learn and Ten
 
 ## Contact
 
-For any inquiries or questions, please contact [your@email.com](mailto:your@email.com).
+For any inquiries or questions, please contact surajvmiskin@gmail.com
