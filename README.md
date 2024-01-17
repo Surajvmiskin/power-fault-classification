@@ -27,7 +27,7 @@ To run this project on your local machine, follow these steps:
    
 
 3. Install the required dependencies:
-pip install numpy pandas matplotlib seaborn tensorflow scikit-learn
+```pip install numpy pandas matplotlib seaborn tensorflow scikit-learn```
 
 
 
