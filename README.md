@@ -23,7 +23,7 @@ The second part of the project involves multiclass classification to predict the
 To run this project on your local machine, follow these steps:
 
 1. Clone this repository:
-   git clone https://github.com/your-username/power-system-fault-classification.git
+   ```git clone https://github.com/your-username/power-system-fault-classification.git```
    
 
 3. Install the required dependencies:
