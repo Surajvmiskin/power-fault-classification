@@ -1,4 +1,4 @@
-# Power System Fault Classification
+# Power System Fault Classificatio
 
 Welcome to the Power System Fault Classification project! This repository contains code and resources for classifying electrical faults in power transmission lines using neural networks.
 
