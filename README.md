@@ -4,7 +4,7 @@ Welcome to the Power System Fault Classification project! This repository contai
 n
 ## Introduction
 
-The transmission line is a critical component of the power system, responsible for transmitting electric power from the source area to the distribution network. This project focuses on the classification of electrical faults in transmission lines using machine learning techniques.
+The transmission line is a critical component of the power system, responsible for transmitting electric power from the source area to the distribution network. This project focuses on the classification of electrical faults in transmission lines using machine learning techniques.n
 
 ## Data and Overview
 
