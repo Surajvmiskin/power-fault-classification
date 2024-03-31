@@ -1,7 +1,7 @@
 # Power System Fault Classification
 
 Welcome to the Power System Fault Classification project! This repository contains code and resources for classifying electrical faults in power transmission lines using neural networks.
-
+ 
 ## Introduction  
  
 The transmission line is a critical component of the power system, responsible for transmitting electric power from the source area to the distribution network. This project focuses on the classification of electrical faults in transmission lines using machine learning techniques. 
